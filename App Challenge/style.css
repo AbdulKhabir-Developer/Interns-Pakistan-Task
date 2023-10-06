@@ -1,0 +1,42 @@
+* {
+  font-family: ABeeZee;
+  color: green;
+}
+.container {
+  margin-bottom: -12px;
+  
+}
+.container-fluid {
+  background-color: #e9ecef;
+  margin-bottom: 33px;
+  padding: 33px;
+}
+.container .selector {
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  margin-bottom: 12px;
+  padding: 12px;
+}
+.h1 {
+  font-size: x-large;
+  font-weight: bold;
+ 
+}
+.h2 {
+  font-size: large;
+  font-weight: bold;
+  
+}
+.header .logo {
+  background-color: #e9ecef;
+  border: none;
+  height: 83px;
+  padding: 12px;
+}
+.img-fluid {
+  max-width: 100px;
+}
+.lead {
+  font-size: medium;
+  
+}
